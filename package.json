@@ -1,0 +1,27 @@
+{
+  "name": "@bansal/cn",
+  "version": "0.0.0",
+  "description": "Merge tailwindcss classes",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/bansal/cn",
+  "keywords": [
+    "tailwindcss",
+    "tailwind",
+    "css",
+    "classes",
+    "className",
+    "classList",
+    "merge",
+    "conflict",
+    "override"
+  ],
+  "dependencies": {
+    "clsx": "^2.1.0",
+    "tailwind-merge": "^2.2.2"
+  }
+}
